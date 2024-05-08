@@ -15,7 +15,7 @@ def get_cats_info(path):
 
 
 
-cats_info = get_cats_info("Task2/cats_file.txt")
+cats_info = get_cats_info("task_02/cats_file.txt")
 print(cats_info)
 
 # print("{:<30} {:<20} {:<10}".format("CAT_ID", "NAME_CAT", "AGE_CAT"))

@@ -31,5 +31,5 @@ def total_salary(path):
 
 
 
-total, average = total_salary("Task1/salary_file.txt")
+total, average = total_salary("task_01/salary_file.txt")
 print(f"Загальна сума заробітної плати: {total}, Середня заробітна плата: {average}")
